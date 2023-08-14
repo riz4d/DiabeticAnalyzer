@@ -3,7 +3,8 @@
 Django web application designed to predict whether a person having diabetes or havn't based on certain input features.By using pandas, numpy, and scikit-learn libraries for data manipulation, analysis, and machine learning.
 
 ### Demo
-![Demo](https://youtube.com/shorts/h1kWAyJ3kqY?feature=share)
+
+[Demo](https://youtube.com/shorts/h1kWAyJ3kqY?feature=share)
 ### Features
 
 - User-friendly web interface for inputting data.
